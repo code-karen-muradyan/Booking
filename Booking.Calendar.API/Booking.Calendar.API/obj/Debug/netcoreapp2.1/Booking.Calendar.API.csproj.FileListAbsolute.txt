@@ -1,0 +1,16 @@
+D:\BookingTask\Booking.Calendar.API\Booking.Calendar.API\bin\Debug\netcoreapp2.1\appsettings.json
+D:\BookingTask\Booking.Calendar.API\Booking.Calendar.API\bin\Debug\netcoreapp2.1\Booking.Calendar.API.deps.json
+D:\BookingTask\Booking.Calendar.API\Booking.Calendar.API\bin\Debug\netcoreapp2.1\Booking.Calendar.API.runtimeconfig.json
+D:\BookingTask\Booking.Calendar.API\Booking.Calendar.API\bin\Debug\netcoreapp2.1\Booking.Calendar.API.runtimeconfig.dev.json
+D:\BookingTask\Booking.Calendar.API\Booking.Calendar.API\bin\Debug\netcoreapp2.1\Booking.Calendar.API.dll
+D:\BookingTask\Booking.Calendar.API\Booking.Calendar.API\bin\Debug\netcoreapp2.1\Booking.Calendar.API.pdb
+D:\BookingTask\Booking.Calendar.API\Booking.Calendar.API\obj\Debug\netcoreapp2.1\Booking.Calendar.API.AssemblyInfoInputs.cache
+D:\BookingTask\Booking.Calendar.API\Booking.Calendar.API\obj\Debug\netcoreapp2.1\Booking.Calendar.API.AssemblyInfo.cs
+D:\BookingTask\Booking.Calendar.API\Booking.Calendar.API\obj\Debug\netcoreapp2.1\Booking.Calendar.API.csproj.CoreCompileInputs.cache
+D:\BookingTask\Booking.Calendar.API\Booking.Calendar.API\obj\Debug\netcoreapp2.1\Booking.Calendar.API.RazorAssemblyInfo.cache
+D:\BookingTask\Booking.Calendar.API\Booking.Calendar.API\obj\Debug\netcoreapp2.1\Booking.Calendar.API.RazorAssemblyInfo.cs
+D:\BookingTask\Booking.Calendar.API\Booking.Calendar.API\obj\Debug\netcoreapp2.1\Booking.Calendar.API.RazorTargetAssemblyInfo.cache
+D:\BookingTask\Booking.Calendar.API\Booking.Calendar.API\obj\Debug\netcoreapp2.1\Booking.Calendar.API.dll
+D:\BookingTask\Booking.Calendar.API\Booking.Calendar.API\obj\Debug\netcoreapp2.1\Booking.Calendar.API.pdb
+D:\BookingTask\Booking.Calendar.API\Booking.Calendar.API\obj\Debug\netcoreapp2.1\Booking.Calendar.API.genruntimeconfig.cache
+D:\BookingTask\Booking.Calendar.API\Booking.Calendar.API\obj\Debug\netcoreapp2.1\Booking.Calendar.API.csprojAssemblyReference.cache
